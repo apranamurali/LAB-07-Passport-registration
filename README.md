@@ -1,4 +1,5 @@
-[# LAB-07-Passport-registration
+[# LAB-07-Passport-registration](https://github.com/apranamurali/LAB-6-Online-examination-system/blob/main/README.md)
+
 
 ### AIM-
 To study the problem statement, SRS document and draw all the UML diagrams of a
@@ -59,4 +60,3 @@ Star UML
 
 ### RESULT:
 Thus the Passport Registration system project was executed and the output was verified.
-](https://github.com/apranamurali/LAB-6-Online-examination-system/blob/main/README.md)
